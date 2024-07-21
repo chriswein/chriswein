@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a developer based in Berlin Germany. Feel free to contact me in German🇩🇪, English🇬🇧 or Japanese🇯🇵.
+I am a developer based in Berlin Germany. Feel free to contact me in German 🇩🇪, English 🇬🇧 or Japanese 🇯🇵.
 
 #### My personal (very subjective) language ranking
 

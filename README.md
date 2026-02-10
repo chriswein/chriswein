@@ -5,8 +5,8 @@ I am a developer based in Berlin Germany. Feel free to contact me in German 🇩
 #### My personal (very subjective) language ranking
 
 1. Python 🐍
-2. Go 🐿
-3. C++ 🔢
+2. C++ 🔢
+3. Go 🐿
 4. Typescript ☕️
 
 <!--
